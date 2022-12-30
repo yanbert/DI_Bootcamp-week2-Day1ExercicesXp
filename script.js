@@ -212,6 +212,11 @@ false - true
 const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
 
 let myWatchedSeriesLength = myWatchedSeries.length;
+
+/***************************************************************************
+Correcteur: Yannick GOUGUIA
+mauvase reponse a la ligne 219, veuillez revoir cet exercice
+***************************************************************************/
 let myWatchedSeriesSentence =" black panther,avangers,terminatore";
  console.log(`j'ai regardé ${myWatchedSeriesLength}   film:${myWatchedSeriesSentence}`);
 // part2
